@@ -1,0 +1,8 @@
+<svg width="400" height="200" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="100" font-family="Arial Black, sans-serif" font-weight="900" font-size="80">HAPPY</text>
+  <g transform="translate(200, 0)">
+    <text x="0" y="100" font-family="Arial Black, sans-serif" font-weight="900" font-size="100">pet</text>
+    <path d="M-20 60 Q -40 40, -60 60 Q -80 80, -60 100 Q -40 120, -20 100 Z" fill="currentColor"/>
+  </g>
+  <text x="200" y="160" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">YOUR PET'S HEALTH, SIMPLIFIED!</text>
+</svg>
